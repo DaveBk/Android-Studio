@@ -1,0 +1,33 @@
+<resources>
+    <string name="BMI_calculator">Health Calculator</string>
+    <string name="app_name">BMI Calc</string>
+    <string name="weight">Weight</string>
+    <string name="height">Height</string>
+    <string name="hello">Hello User</string>
+    <string name="calculateBMI">Calculate</string>
+
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="age">Age</string>
+
+    <string name="wyglodzenie">very severely underweight</string>
+    <string name="wychudzenie">severely underweight</string>
+    <string name="niedowaga">underweight</string>
+    <string name="wartosc_prawidlowa">normal</string>
+    <string name="nadwaga">overweight</string>
+    <string name="I_stopien_otylosci">obese class I</string>
+    <string name="II_stopien_otylosci">obese class II</string>
+    <string name="otyłosc_skrajna">obese class III</string>
+    <string name="Weight">Weight</string>
+    <string name="Height">Height</string>
+    <string name="Age">Age</string>
+
+    <string name="Quiz">Quiz COVID - 19</string>
+    <string name="Score">Score</string>
+    <string name="quit">Quit</string>
+    <string name="start_infected_chart">Infected People</string>
+    <string name="start_cure_chart">" Healed People"</string>
+    <string name="start_death_chart">Number of Deaths</string>
+    <string name="chart">Charts COVID - 19</string>
+    <string name="app_name_main">PAMOs15720</string>
+</resources>
